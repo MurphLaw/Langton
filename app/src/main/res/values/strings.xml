@@ -1,12 +1,30 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="action_settings">Settings</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
-
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="app_name">Proyecti Final</string>
+    <string name="text_button_nex">Next</string>
+    <string name="TextButtonNext">NEXT</string>
+    <string name="text_button_back">BACK</string>
+    <string name="titulo_textView">Asignación de hormigas</string>
+    <string name="textView_digitarcoordenadas">Digite la posicion(X,Y) junto con la orientacion(Z) de la hormiga</string>
+    <string name="textView_elijaCantidadDeHormigas">Elija la cantidad de hormigas</string>
+    <string name="textView_Numero">N °</string>
+    <string name="textView_x">X</string>
+    <string name="textView_y">Y</string>
+    <string name="textView_z">Z</string>
+    <string name="Button_Cargar">Cargar</string>
+    <string name="Button_Siguiente">Siguiente</string>
+    <string name="button_next">Siguiente</string>
+    <string name="button_next_2">Siguiente</string>
+    <string name="button_arriba">Arriba</string>
+    <string name="button_abajo">Abajo</string>
+    <string name="button_derecha">Derecha</string>
+    <string name="button_izquierda">Izquierda</string>
+    <string name="button_arriba_2">Arriba</string>
+    <string name="text_view">Digite la direccion al encontrar una celda negra</string>
+    <string name="button_abajo_2">Abajo</string>
+    <string name="button_derecha_2">Derecha</string>
+    <string name="button_izquierda_2">Izquierda</string>
+    <string name="text_view_2">Digite la dirección al encontrar una celda blanca</string>
+    <string name="text_view_2_2">La hormiga girará a la:</string>
+    <string name="text_view_2_3" />
+    <string name="text_view_1_3" />
 </resources>
